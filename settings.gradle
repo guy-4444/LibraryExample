@@ -1,0 +1,3 @@
+include ':SuperBitmap'
+include ':app'
+rootProject.name = "Library Example"
